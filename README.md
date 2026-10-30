@@ -3,6 +3,8 @@
 Manual + automated test suite for the SauceDemo "shop and check out" use case.
 Stack: **Java + Playwright + JUnit 5** with the **Page Object Model**.
 
+**GitHub repository:** https://github.com/manojsanthi-gcmk/harvee-qa-assessment
+
 ---
 
 ## Project structure
